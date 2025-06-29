@@ -1,6 +1,6 @@
 #-------------------------------------------------------------------------------
 # Name:        Software Inventory Manager
-# Purpose:     To enables users to manage and track software product keys and
+# Purpose:     To enable users to manage and track software product keys and
 #              associated metadata for Windows operating systems.
 #
 # Author:      Dwayne Akeem Reid
